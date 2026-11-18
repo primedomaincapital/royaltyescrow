@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://royaltyescrow.com/sitemap.xml
